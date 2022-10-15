@@ -1,0 +1,3 @@
+penggunaan javascript hampir mirip dengan penggunaan C/C++ dimana di setiap akhiran statement ditambahkan titik koma namun tidak wajib
+ada dua cara menginclude javascript kedalam html pertama dengan membuat tag <script></script>
+atau yang kedua dengan <script srf="hello-world.js"></script>
