@@ -1,0 +1,9 @@
+operator logika adalah operator untuk dua buah data boolean
+hasil operator logika adalah boolean
+dan(&&), atau(||) dan kebalikan(!)
+
+operator(dan) jika salah satunya ada yang bernilai false maka hasilnya false sedangkan jika dua duanya bernilai true maka hasilnya true
+
+sebaliknya operator(atau) berkebalikan dengan operator dan jika ada salah satunya bernilai true maka hasilnya true
+
+operator(unary) digunakan untuk satu data biasanya untuk membalikan data semisal datanya true dibalikan menjadi false
