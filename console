@@ -1,0 +1,8 @@
+logging di javascript disebut Console.
+logging adalah mekanisme yang biasa digunakan untuk menampilkan informasi dari suatu aplikasi tanpa mengganggu alur kerja aplikasi tersebut
+contoh Console. di javascript
+console.info() biasanya digunakan untuk menampilkan informasi, console.warn() digunakan untuk memberitahukan informasi peringatan, console.error() biasa digunakan untuk memberitahukan informasi error dan (console.table() yang biasanya digunakan untuk tipe data array)
+
+cara mengetahuinya dengan klik kanan pada browser lalu pilih inspect lalu pilih pada bagian window console
+
+debug biasanya digunakan untun informasi yang lebih dan banyak
