@@ -1,0 +1,7 @@
+javascript mendukung banyak sekali operator matematika
+contohnya operator aritmatika, augmented assignments, operator unary dan lain lain
+operator aritmatika seperti pertambahan(+), pengurangan(-), perkalian(*), exponensial/pangkat(**), pembagian(/), sisa bagi(%)
+
+operator augmented assignments hampir sama dengan operator aritmatika hanya saja penggunaannya lebih mudah
+
+operator unary adalah operator yang digunakan untuk satu data saja
