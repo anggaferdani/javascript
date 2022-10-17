@@ -1,0 +1,18 @@
+variable adalah tempat untuk menyimpan data
+untuk mengakses variable untuk mendapatkan data tersebut kita hanya harus menuliskan nama variable nya
+hal tersebut mempermudah jika ingin mendapatkan data yang sama
+cara membuat variable di javascript dengan mengetikan kata kunvi var diikuti dengan nama variablenya
+javascript adalah dynamic language artinya variable dijavascript tidak terpaku dengan satu tipe data
+variable dijavascript tidak boleh mengandung spasi
+biasanya programer javascript menuliskan variable dengan metode penulisan camel case
+tidak ada batasan dalam menuliskan variable di javascript
+
+untuk pemanggilan data tidak perlu menggunakan string
+variable harus ditulis diatas kode program yang berjalan
+
+sebelumnya penulisan variable hanya bisa menggunakan kata kunci var
+sejak ecmascript pertama kali diperkenalkan terdapat cara baru untuk penulisan variable dengan let dan const
+
+bedanya let dengan const yaitu let bisa diubah ubah sesuka kita sedangkan const jika variable sudah diisi maka variable tersebut tidak bisa diubah lagi valuenya
+const = constant
+jika isi variable constant berbeda maka program error dan berhenti
