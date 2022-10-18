@@ -1,0 +1,8 @@
+yang dimaksud string template dimana kita bisa mensubtitusi data dari luar string ke dalam string layaknya seperti mengambil data variable atau melakukan operasi matematika
+seperti mengambil data dari luar lalu dimasukan ke dalam string tanpa harus keluar string
+pembuatan string template dengan menggunakan ` (backtick)
+penggunaan string template bisa menggantikan penggunaan +
+
+bisa juga menambahkan Expression ke dalam string template seperti melakukan perbandingan
+
+string template dapat membuat multiline string
