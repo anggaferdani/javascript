@@ -1,0 +1,19 @@
+digunakan jika ingin mengubah data dalam bentuk string ke dalam bentuk tipe data number atau sebaliknya
+contoh function yang digunakan untuk mengkonversi string dan numer
+perseInt(string) = mengkonversi dari string ke number(bilangan bulat)
+perseFloat(string) = mengkonversi dari string ke number(bilangan pecahan)
+Number(string) = mengkonversi dari string ke number(bilangan bulat maupun pecahan)
+number.toString() = mengkonversi dari number ke string
+
+untuk perseInt membulatkan bilangan pecahan semisal ("1.9") = 1
+
+jika data yang kita konversi bukan data yang valid maka hasil konversi tersebut adalah NaN(Not a Number)
+jika NaN diopersikan dengan number lainya hasilnya tetap NaN
+
+semisal ${parseFloat("1.1angga")} = 1.1
+sedangkan ${parseFloat("a1.1angga")} = NaN karena terdapat data string pertama bukan number
+untuk number dia tidak mentolerir salah sedikit pun jika terdapat data selain number hasilnya tetap NaN
+
+isNan() digunakan untuk mengecek apakah itu sebuah number atau bukan = isNan(number)
+dapat disimpan didalam sebuah variable
+hasilnya berupa boolean
