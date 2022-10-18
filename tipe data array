@@ -1,0 +1,16 @@
+array adalah tipe data yang berisikan kumpulan data
+dengan array kumpulan data dapat ditampung dalam satu variable
+array dijavascript dinamis artinya datanya dapat bertambah dengan sendirinya saat kita masukkan ke dalam array
+penulisan array let arrayKosong = []; let arrayKosong = ["Angga", "Wahyu", "Ferdani"];
+
+setiap data diarray akan disimpan posisi berurutan dimulai dengan index 0, index 1, index 2
+
+operasi operasi diarray
+array.push(value) = menambahkan data ke array
+array.length = untuk mendapatkan panjang array
+array[index] = mendapatkan data di posisi index
+array[index] = value = mengubah data di posisi index
+delete array[index] = value = menghapus data di posisi index, namun tidak menggeser posisi
+
+tidak ada batasan jenis tipe data apa
+bahkan bisa memasukan array ke dalam array
