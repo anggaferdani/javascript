@@ -1,0 +1,12 @@
+merupakan operator yang bisa digunakan untuk melihat tipe data sebuah value/variable
+hasilnya berupa string
+contoh
+Undefined = "undefined"
+Null = "null"
+Boolean = "boolean"
+Number = "number"
+BigInt = "bigint"
+String = "string"
+Symbol = "symbol"
+Function = "function"
+Lainnya = "object"
