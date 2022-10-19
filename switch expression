@@ -1,0 +1,4 @@
+penggunaan switch lebih sederhana cara pembuatannya
+kondisi switch statement hanya untuk perbandingan ==
+else di switch ditulis default
+jika if dapat mengeksekusi rentang nilai maupun kondisi sedangkan switch hanya dapat mengeksekusi berdasarkan objek
