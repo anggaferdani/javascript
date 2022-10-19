@@ -1,0 +1,9 @@
+bisa mengubah tipe dalam index array(Associative Array)
+jika dipaksakan memasukan data bukan number tipe data array akan berubah menjadi tipda data object
+index bisa menggunakan string
+index di object biasa disebut attributes/properties
+tipe data object menggunakan {}(kurung kurawal)
+
+jika attributes lebih dari satu kata bisa menggunakan petik dua
+jika attributes lebih dari satu kata menggunakan kurung kotak = ${orang["nama lengkap"]}
+jika hanya satu kata bisa = ${orang.email}
