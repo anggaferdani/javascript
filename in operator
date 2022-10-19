@@ -1,0 +1,6 @@
+operator yang digunakan untuk mengecek apakah ada sebuah properties di dalam object
+jika properties itu ada maka hasilnya true sedangkan jika tidak maka hasilnya false
+juga bisa mengecek index di array
+
+hanya akan mengecek ada tidaknya properties
+walaupun nilainya undefined atau null maka dianggap ada

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lorem, ipsum dolor.</title>
+</head>
+<body>
+    <script>
+        // const orang = {
+        //     firstName : "Angga",
+        //     lastName : "Wahyu Ferdani"
+        // }
+
+        // const result = "firstName" in orang;
+        // document.writeln(`<p>${result}</p>`);
+
+        // if ("firstName" in orang) {
+        //     alert(`hey ${orang.firstName}`);
+        // } else {
+        //     alert("hey");
+        // }
+
+        const orang = {
+            firstName : "Angga",
+            middleName : undefined,
+            lastName : "Wahyu Ferdani"
+        }
+
+        if ("middleName" in orang) {
+            alert(`hey ${orang.middleName}`);
+        } else {
+            alert("hey orang");
+        }
+
+        const nama = [null, "Angga", null];
+        const result = 0 in nama;
+        document.writeln(`<p>${result}</p>`)
+    </script>
+</body>
+</html>
