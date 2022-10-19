@@ -1,0 +1,4 @@
+terdapat alert, prompt dan confirm
+alert digunakan untuk memberikan peringatan berupa text di browser
+prompt digunakan untuk meminta input string dalam bentuk popup input text
+sedangkan confirm digunakan untuk meminta data boolean dari pengguna dalam bentuk input pilihan
