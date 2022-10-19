@@ -1,0 +1,7 @@
+sebuah kata kunci
+adalah sebuah tipe data
+jika sebuah variable belum ditambahkan nilai maka variable tersebut ber tipe data undefined
+berbeda dengan null
+singkatnya mengakses data yang belum ada/ditambahkan
+
+buat array nama[2] = undefined; seakan akan sama dengan delete nama[2];
