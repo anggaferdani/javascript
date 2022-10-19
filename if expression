@@ -1,0 +1,8 @@
+salah satu kunci percabangan
+perngertian percabangan jika kita bisa mengeksekusi program tertentu jika suatu kondisi terpenuhi
+jika kondisi block if true maka kode program akan dieksekusi jika false maka program tidak akan dieksekusi
+jika ingin mengeksekusi program yang kondisinya felse dengan else expression
+jika ingin membuat lebih dari satu kondisi menggunakan else if
+
+jika kondisi belum terpenuhi maka program akan mengcek code program selanjutnya
+jika baris pertama terpenuhi code program akan berhenti
