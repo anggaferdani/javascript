@@ -1,0 +1,6 @@
+tipe data kosong
+dijavascript namanya null & undefined
+bedanya dengan ternary operator untuk nullisth coaleting menggunakan (??) dua tanda tanya
+jika data kosong bisa diganti menjadi data lain
+
+penulisan nullisth coalesting let data = parameter ?? "dmashdsasd";
