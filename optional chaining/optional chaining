@@ -1,0 +1,2 @@
+operator yang digunakan untuk mengamankan
+biasanya jika menggunakan properties dari data nullisth tanpa menggunakan optional chaining biasanya error
