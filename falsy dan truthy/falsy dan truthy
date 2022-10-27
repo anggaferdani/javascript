@@ -1,0 +1,12 @@
+falsy value ketika didalam boolean dianggap false
+bisa menentukan kapan sebuah data dianggap false
+
+false ====> boolean false
+0, -0 ====> number dianggap false
+"" dll ====> semua sting kosong dianggap false
+null ====> dianggap false
+undifined ====> dianggap false
+NaN ====> dianggap false
+
+truthy kebalikan dari falsy ketika sebuah data dianggap true
+data truthy == data selain falsy
