@@ -1,0 +1,7 @@
+and dan or bisa digunakan untuk tipe data non boolean
+membaca dari kiri ke kanan
+akan menggambil nilai pertama yg truthy
+jika tidak ada satupun yg bernilai truthy maka yg terakhir yg akan diambil
+
+operator && kebalikan operator or
+menggambil nilai pertama yg falsy
