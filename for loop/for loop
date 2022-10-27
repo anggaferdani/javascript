@@ -1,0 +1,14 @@
+blok kode akan selalu diulang selama kondisi terpenuhi
+
+for(init statement: kondisi: post statement){
+    blok perulangan
+}
+
+init statement akan dieksekusi sekali sebelum perulangan
+jika true akan dilakukan perulangan jika false akan berhenti
+(init statement: kondisi: post statement) tidak wajib diisi
+maka kondisinya true
+
+for(;;){
+    alert("samdns dmsand samdnasdm");
+}
