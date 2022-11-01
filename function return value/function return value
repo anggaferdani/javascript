@@ -1,0 +1,4 @@
+secara default function tidak mengen=mbalikan value apapun
+untuk membuat function mengembalikan value kita dapat menggunakan kata kunci return
+hanya bisa mengembalikan satu data
+sementara untuk mengembalikan beberapa data sekaligus bisa menggunakan array
