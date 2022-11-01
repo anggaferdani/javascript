@@ -1,0 +1,1 @@
+parameter juga bisa diberi default value, artinya jika data yangg harusnya bernilai undefined maka secara otomatis akan diisi oleh default value
