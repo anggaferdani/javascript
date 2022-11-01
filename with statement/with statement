@@ -1,0 +1,4 @@
+digunakan untuk menurunkan sebuah scope data
+kita bisa mengakses property dalam sebuah data tanpa harus menyebut datanya
+tidak direkomendasikan untuk digunakan
+kadang membuat sebuah koda menjadi ambigu
