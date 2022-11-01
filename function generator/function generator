@@ -1,0 +1,6 @@
+function yang digunakan untuk membuat data generator
+data yang bisa diiterasi seperti array
+untuk mengaksesnya menggunakan tanda * setelah kata function (function*)
+untuk mengembalikan data ditiap iterasi bisa menggunakan yield
+tidak bisa diakses secara index
+jika datanya belum kita ambil maka yield selanjutya tidak akan di eksekusi
