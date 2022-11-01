@@ -1,0 +1,9 @@
+kemampuan function memanggil function dirinya sendiri
+ada beberapa problem yang lebih mudah diselesaikan menggunakan recursive function
+contoh kasus factorial
+
+5 * factorialRecursive(4);
+5 * 4 * factorialRecursive(3);
+5 * 4 * 3 * factorialRecursive(2);
+5 * 4 * 3 * 2 * factorialRecursive(1);
+5 * 4 * 3 * 2 * 1;
