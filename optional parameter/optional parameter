@@ -1,0 +1,2 @@
+secara default parameter di function itu optional
+jika tidak ada value maka parameter akan bernilai undefined
