@@ -1,0 +1,4 @@
+bisa mengirim data sebanyak banyaknya pada satu parameter secara otomatis di konversi menjadi array
+hanya ada boleh satu function tidak dapat lebih
+hanya boleh berada diposisi paling akhir
+dengan spread syntax kita bisa mengirim array ke rest parameter
