@@ -1,0 +1,8 @@
+merupakan area akses sebuah data
+terdapat global scope dan local scope
+data global scope dapat diakses dari local scope namun data local scope hanya dapat diakses di local scope
+
+global scope
+function mnasdbmasd(){
+  local scope
+}
