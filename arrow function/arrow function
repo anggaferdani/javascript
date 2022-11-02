@@ -1,0 +1,18 @@
+pembuatan function dengan penulisan yang lebih sederhana
+ada di ecmascript terbaru
+tidak bisa digunakan disemua situasi
+cara penulisannya seperti tanda panah =>
+
+kekurangannya =
+1. tidak memiliki arguments object
+2. tidak bisa mennggunakan function generator
+3. tidak bisa mengakses this
+4. tidak bisa mengakses super
+
+mirip anonymus function
+tidak bisa berdiri sendiri
+harus didalam variable parameter
+
+mendukung pembuatan function tanpa block
+dapat mengembalikan value tanpa return
+dapat tanpa kurung parameter
