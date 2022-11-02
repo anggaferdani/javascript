@@ -1,0 +1,2 @@
+kemampuan membuat function yang berbeda untuk mengambil data(getter) dan mengubah data(setter) pada sebuah property di object
+dengan getter dan setter kita bisa melakukan hal apapun dalam function sebelum sebuah property di akses semisal nemambah validasi
