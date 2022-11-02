@@ -1,0 +1,4 @@
+sudah tidak direkomendasikan menggunakan var diganti let
+karena tidak memiliki block scope artinya dia tidak mengikat ke local scope
+
+letnya ganti var
