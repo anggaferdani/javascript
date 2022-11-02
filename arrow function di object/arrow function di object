@@ -1,0 +1,2 @@
+bisa digunakan sebagai object method
+tidak bisa digunakan untuk mengakses object, function generator, kata kunci this dan super
