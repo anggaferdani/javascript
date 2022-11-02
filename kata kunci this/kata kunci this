@@ -1,0 +1,5 @@
+dalam object method merupakan referensi ke object pemilik function
+di global scope this merupakan referensi ke global object
+dalam function this merupakan referensi ke global object
+di function dengan strict mode this adalah undefined
+dalam event this merupakan referensi ke element yang menerima event
