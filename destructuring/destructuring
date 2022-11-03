@@ -1,0 +1,6 @@
+biasanya digunakan untuk membongkar value value di array atau object ke dalam variable variable
+mempermudah mengambil data dari array tanpa harus melakukan pengambilan data satu persatu
+bisa juga dilakukan di function parameter {
+    memudahkan dalam ketika ingin mengambil nested data array didalam function
+}
+dapat menambahkan default value
