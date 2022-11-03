@@ -1,0 +1,3 @@
+biasanya digunakan untuk melakukan proses debugging
+debugging adalah mencari bug(masalah) yang terdapat dikode program
+dengan debugger kita bisa menghentikan(pause) kode program diposisi yg kita inginkan(breakpoint)
