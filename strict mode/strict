@@ -1,0 +1,10 @@
+secara default koda program yang berjalan dalam mode tidak strict
+pada js versi terbaru sudah terdapat mode strict{
+    merubah yang tadinya silent error menjadi throw error(terlihat)
+    memperbaiki beberapa kesalahan engine
+}
+cara menggunakan strict mode dengan menambahkan use strict pada baris awal
+juga bisa di awal function
+
+jika semisal didalam function menggunakan with statement maka akan keluar throw error seperti
+Uncaught SyntaxError: Strict mode code may not include a with statement (at strict.html:17:13)
